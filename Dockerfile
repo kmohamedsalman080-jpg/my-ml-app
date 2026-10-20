@@ -11,7 +11,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 4. Copy Application Files & Model
 COPY main.py .
 COPY server_model.pkl .
-COPY .env .
+# COPY .env .
 
 # 5. Expose Application Port
 EXPOSE 8000
