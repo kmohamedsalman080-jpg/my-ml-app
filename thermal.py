@@ -1,0 +1,1 @@
+https://ai-thermal-app-nvnd3uavrlmenw4fht4rrf.streamlit.app/
